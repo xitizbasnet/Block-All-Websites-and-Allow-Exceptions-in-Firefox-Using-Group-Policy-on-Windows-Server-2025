@@ -1,4 +1,4 @@
-# 🔐 Block All Websites and Allow Exceptions in Firefox  
+# 🔐 Block All Websites and Allow Exceptions in Firefox in Active Directory 
 ### Using Group Policy on Windows Server 2025
 
 ## 📌 Overview
